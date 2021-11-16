@@ -164,7 +164,7 @@ nav { display: inline; float: right !important; }
     display: inline-block;
 }
 
-.donate-card .button:hover, .submit:hover {
+.button:hover, .submit:hover {
     padding: 12px;
     border-color: #fff;
     color: #fff !important;
